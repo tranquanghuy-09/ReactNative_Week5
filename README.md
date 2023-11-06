@@ -8,6 +8,8 @@ Practice week 5 of mobile programming subject
 
 [https://github.com/tranquanghuy-09/ReactNative_Week3/assets/107989088/b011494f-466d-4b8f-a2d8-936c8ecd084e](https://github.com/tranquanghuy-09/ReactNative_Week5/assets/107989088/57aa83b2-b9b1-4386-91d4-1b8be03cf3fe)
 
+## Secondary link demo => [Click here to view](https://youtu.be/YfbyXyFYlg4)
+
 # Install
 
 npm install @react-navigation/native @react-navigation/stack
